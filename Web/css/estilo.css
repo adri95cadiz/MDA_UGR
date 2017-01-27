@@ -1,0 +1,96 @@
+TABLE
+{
+	float: right;
+	margin-top: -59px;
+}
+EM
+{
+	color: #4E4E4E;
+	text-shadow: 0.1px 0.1px black;
+	font-size: 18px;
+	font-style: normal;
+}
+OL
+{
+	font-style: normal;
+	font-weight: bold;
+}
+UL
+{
+	font-weight: normal;
+	font-style: normal;
+}
+BODY
+{
+	color: #4E4E4E;
+	background-color: #F8F8FF;
+	font-family: Palatino Linotype;
+	text-align: justify;
+}
+BUTTON
+{
+	background-color: #F8F8FF;
+	border: 0px;
+	font-family: Palatino Linotype;
+	margin-bottom: 0;
+}
+FOOTER BUTTON
+{
+	background-color: #87CEFA;
+	border: 0px;
+	font-family: ;
+	text-shadow: 0.2px 0.2px white;
+	color: black;
+}
+FOOTER
+{
+	margin-top: 15px;
+	background-color: #87CEFA;
+	padding-bottom: 1px;
+	text-align: center;
+	font-style: italic;
+	padding-top: 7px;
+	border: 1px solid black;
+	/*+border-radius: 10px;*/
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+BUTTON A
+{
+	font-weight: bold;
+	color: #545D69;
+	text-shadow: 0.2px 0.2px white;
+	font-style: normal;
+	text-decoration: none;
+	font-size: 24px;
+	border-top: 1px solid #545D69;
+	border-bottom: 1px solid #545D69;
+}
+HEADER IMG
+{
+	width: 100%;
+	box-sizing: border-box;
+	margin: -16px auto auto;
+	/*+border-radius: 10px;*/
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+DIV
+{
+	margin-left: 24px;
+	margin-right: 24px;
+}
+FIGURE
+{
+	height: 40px;
+	width: 45px;
+}
+HEADER
+{
+	margin-bottom: 12px;
+	padding-bottom: 0px;
+}
